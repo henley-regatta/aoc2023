@@ -22,3 +22,12 @@
   * `python/day2part2.py` - All the hard work done by the parser for
   part1, this is just a calc problem once you've got a datastructure with
   the game elements in.
+
+  * `python/day3part1.py` - Nothing wrong with my comparisons. About an
+  hour and a half wasted on missing a case with a number hanging on the
+  end of the line thanks to forgetting a clean-up case....
+
+  * `python/day3part2.py` - Made a bit of heavy weather solving this,
+  although I'd done most of the hard work in part 1 I'm not particularly
+  happy with my approach to actually looking for gear ratios. It works,
+  but it feels clunky aand overwrought. But... a win is a win.

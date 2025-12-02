@@ -18,3 +18,7 @@
   * `python/day2part1.py` - About 75% text parsing by code and thought.
   Actual problem is relatively simple once the input's been parsed, just a
   bit of bookkeeping here and there to sort out the answer.
+
+  * `python/day2part2.py` - All the hard work done by the parser for
+  part1, this is just a calc problem once you've got a datastructure with
+  the game elements in.

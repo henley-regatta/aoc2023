@@ -14,3 +14,7 @@
   pragmatic approach to get back to numbers without disturbing that which
   I quite like as a bit elegant. I mean the code looks like crap,
   though....
+
+  * `python/day2part1.py` - About 75% text parsing by code and thought.
+  Actual problem is relatively simple once the input's been parsed, just a
+  bit of bookkeeping here and there to sort out the answer.

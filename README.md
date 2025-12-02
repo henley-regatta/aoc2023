@@ -6,3 +6,5 @@
 
 ## Python
 
+  * `python/day1part1.py` - It's a regular expression thing with a
+  heuristic handling one edge case.
